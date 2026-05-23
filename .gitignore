@@ -1,0 +1,9 @@
+.vs
+Debug
+x64
+configCGIH9/Debug
+configCGIH9/x64
+*.pdb
+*.ilk
+*.log
+*.tlog

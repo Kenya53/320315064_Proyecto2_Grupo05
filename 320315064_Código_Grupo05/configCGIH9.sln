@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "configCGIH9", "configCGIH9\configCGIH9.vcxproj", "{82033B07-78AA-4798-8E6F-8F4AFA813C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Debug|x64.ActiveCfg = Debug|x64
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Debug|x64.Build.0 = Debug|x64
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Debug|x86.ActiveCfg = Debug|Win32
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Debug|x86.Build.0 = Debug|Win32
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Release|x64.ActiveCfg = Release|x64
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Release|x64.Build.0 = Release|x64
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Release|x86.ActiveCfg = Release|Win32
+		{82033B07-78AA-4798-8E6F-8F4AFA813C87}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1306710B-7D0F-4394-B3F9-9F267D7C7835}
+	EndGlobalSection
+EndGlobal
