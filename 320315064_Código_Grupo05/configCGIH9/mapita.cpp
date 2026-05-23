@@ -1,13 +1,6 @@
 // ============================================================
-// Tank City - main.cpp  (VERSION MODIFICADA)
-// Cambios respecto al original:
-//   1. Los 6 items aparecen todos al matar al PRIMER enemigo.
-//   2. Se elimino el requisito del codigo Konami para spawnear items.
-//      (el codigo Konami sigue funcionando pero solo activa MaxPower).
-//   3. HUD retro en esquina superior izquierda con:
-//      - Contador de enemigos restantes
-//      - Vidas disponibles (iconos de tanque)
-//      - Barras de cuenta regresiva para cada power-up activo
+// Tank City - main.cpp  
+// Alunma: 320315064
 // ============================================================
 
 #include <iostream>
@@ -994,7 +987,7 @@ void DrawRetroTankIcon(Shader& shader, GLuint VAO, GLint modelLoc,
 }
 
 // ============================================================
-// HUD RETRO — vidas, enemigos y timers de power-ups  [CORREGIDO]
+// HUD RETRO — vidas, enemigos y timers de power-ups 
 //
 // Coordenadas: DrawRetroText usa y = distancia desde arriba.
 //   sy = HEIGHT - y - row*px   ?   texto empieza en HEIGHT-y
